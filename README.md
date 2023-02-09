@@ -1,0 +1,2 @@
+# Declarative-repo
+declarative statement
